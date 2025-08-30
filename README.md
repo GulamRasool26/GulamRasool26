@@ -41,8 +41,8 @@
 
 ## 📂 Featured Projects
 
-🔹 **Machine Learning for Data Sciences** – A collection of ML notebooks (supervised, unsupervised, evaluation, and projects).  
-🔹 **Data Visualization with Python** – Hands-on visualizations with Matplotlib, Seaborn, Folium, and Dash.
+🔹 [Machine Learning for Data Sciences](https://github.com/GulamRasool26/MACHINE-LEARNING-FOR-DATA-SCIENCES) – A collection of ML notebooks (supervised, unsupervised, evaluation, and projects).  
+🔹 [Data Visualization with Python](https://github.com/GulamRasool26/Data-Visualization-with-Python) – Hands-on visualizations with Matplotlib, Seaborn, Folium, and Dash.  
 
 ---
 
