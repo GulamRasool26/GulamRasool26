@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ghulam Rasool!
+# 👋 Hi there, I'm Gulam Rasool!
 🎓 Software Engineering Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast  
 
 ---
