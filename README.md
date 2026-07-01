@@ -27,7 +27,7 @@ I'm a Software Engineering student passionate about data analytics, machine lear
 
 ## 🔥 MORE PROJECTS
 
-| 📉 **[Layoffs SQL Analysis](https://github.com/GulamRasool26/Data-Analyst/tree/main/SQL/project(layoffs%202020%20-%202023))** | 📊 **[Power BI Survey Dashboard](https://github.com/GulamRasool26/Data-Analyst/tree/main/PowerBI/Project)** | 🧮 **[HackerRank SQL Practice](https://github.com/GulamRasool26/HackerRank_x_SQL)** |
+| 📉 **[Layoffs SQL Analysis](https://github.com/GulamRasool26/Data-Analyst/tree/main/SQL/project_layoffs_2020_2023)** | 📊 **[Power BI Survey Dashboard](https://github.com/GulamRasool26/Data-Analyst/tree/main/PowerBI/Project)** | 🧮 **[HackerRank SQL Practice](https://github.com/GulamRasool26/HackerRank_x_SQL)** |
 |---|---|---|
 | Analyzed 2,361 layoff records (2020–2023). Identified peak layoffs in 2022, US as highest-impact region, and cross-industry trends using advanced SQL. | Interactive Power BI dashboard for Survey Data Professionals. Covers tool usage, experience levels, salary bands, and job satisfaction across the analytics community. | Growing SQL repository covering joins, aggregations, subqueries, and window functions — solved on HackerRank with documented solutions. |
 | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
