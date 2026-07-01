@@ -108,7 +108,7 @@ I'm a Software Engineering student passionate about data analytics, machine lear
   <a href="mailto:gulamrasool2026@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ghulam-rasool2026">
+  <a href="https://www.linkedin.com/in/gulam-rasool2026">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
